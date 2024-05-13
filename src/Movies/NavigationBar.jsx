@@ -26,21 +26,12 @@ const NavigationBar = () => {
                 className="nav-link"
                 activeClassName="active"
               >
-                Home
+                MovieDB
               </NavLink>
             </li>
             <li className="nav-item">
               <NavLink
                 to="/competitions"
-                className="nav-link"
-                activeClassName="active"
-              >
-                Competitions
-              </NavLink>
-            </li>
-            <li className="nav-item">
-              <NavLink
-                to="/movies"
                 className="nav-link"
                 activeClassName="active"
               >
